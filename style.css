@@ -92,6 +92,9 @@ footer {
     color: white;
     text-align: center;
 }
+footer ul {
+    text-align: left;
+}
 .bg-loader {
     background-color: #b1b1b1;
     position: fixed;
