@@ -6,3 +6,4 @@ INI ADALAH PROJEK WEB PROFIL JURUSAN TKJ
 - Bukutulisabc
 - nabilahidayatulamalia99
 - akmalnoor2022
+- fauzanfauza
