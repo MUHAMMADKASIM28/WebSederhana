@@ -8,3 +8,4 @@ INI ADALAH PROJEK WEB PROFIL JURUSAN TKJ
 - akmalnoor2022
 - fauzanfauza
 - Anisanisatkj
+- aisyah
