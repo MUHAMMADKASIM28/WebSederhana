@@ -9,3 +9,4 @@ INI ADALAH PROJEK WEB PROFIL JURUSAN TKJ
 - fauzanfauza
 - Anisanisatkj
 - aisyahtkj
+- gitaamalia
