@@ -10,7 +10,6 @@ INI ADALAH PROJEK WEB PROFIL JURUSAN TKJ
 - gitaamalia
 - Sahrulsmk
 - adnantkj3
-- andifajarrifqi
 
 
 
